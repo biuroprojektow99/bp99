@@ -17,8 +17,7 @@
 
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -54,7 +53,6 @@
 <!--tu siê menu koñczy-->
 
 
-<br />
 
 		<div id="menuboczne">
 	
@@ -66,7 +64,6 @@
 				
 	
 		</div>
-
 
 
 <div id="stopka">

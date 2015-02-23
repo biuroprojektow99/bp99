@@ -4,24 +4,27 @@ dane {
 	border-width: 1px;
 	border-style: solid;}
 
-body {	background-color: #FFF;
+body {	background-color: #fff ;
+	background-attachment: fixed;
+	background-image: url(img/rzut4.jpg);
+	background-position: center bottom; 
 	font-family: Trebuchet MS, sans-serif;
 	text-align: left;}
 
 h1 {
-	color: white;
+	color: #404040 ;
 	line-height: 30px;
 	font-weight: bold;
 	}
 
 p {
-	color: white;
+	color: #404040 ;
 	line-height: 20px;
 	font-size: small;
 	}
 	
 a {
-	color: white;
+	color: #404040 ;
 	text-decoration:none;
 	}
 
@@ -30,43 +33,44 @@ a.mail:hover {
 	}	
 	
 em.yellow {
-	color: #404040;
+	color: #fff ;
 	background-color: #fC0;
 	font-style: normal;
 	font-size:  130%;
-	padding: 5px 5px 10px 5px;
+	padding: 5px 5px 5px 5px;
+	opacity: 0.7;
 	}
 
 em.xsmall {
-	color: white;
+	color: #404040 ;
 	font-style: normal;
 	font-weight: bold;
 	margin-right: 16px;
 	}
 	
 em.small {
-	color: white;
+	color: #404040 ;
 	font-style: normal;
 	font-weight: bold;
 	margin-right: 31px;
 	}
 
 em.smallplus {
-	color: white;
+	color: #404040 ;
 	font-style: normal;
 	font-weight: bold;
 	margin-right: 25px;
 	}
 
 em.medium {
-	color: white;
+	color: #404040 ;
 	font-style: normal;
 	font-weight: bold;
 	margin-right: 40px;
 	}
 
 em.large {
-	color: white;
+	color: #404040 ;
 	font-style: normal;
 	font-weight: normal;
 	margin-left: 65px;
@@ -94,14 +98,14 @@ em.projektbold {
 	}
 
 .opisy {
-	color: white;
+	color: #404040 ;
 	font-family: Trebuchet MS, sans-serif;
 	text-align: left;
 	font-size: small;
 	}
 
 .lista {
-	color: white;
+	color: #404040 ;
 	font-family: Trebuchet MS, sans-serif;
 	text-align: left;
 	font-size: small;
@@ -114,23 +118,24 @@ em.projektbold {
 
 #adres {
 	float: right;
-	width: 790px;
+	width: 770px;
 	height: auto;
-	background-color: #404040;
-	padding: 0px 0px 10px 0px;
+	background-color: #F0F0F0 ;
+	padding: 0px 30px 10px 0px;
 	}
 
 #wizytowka {
 	text-align: right;
 	width: 800px;
 	float: center;
-	background-color: #404040;
+	background-color: #F0F0F0 ;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 15%;
-	padding: 10px 0px 10px 0px;
+	margin-top: 225px;
+	padding: 0px 0px 10px 0px;
 	font-family: Trebuchet MS, sans-serif;
 	line-height: 30px;
+	
 	}
 
 #wizytowka a:hover {
@@ -138,7 +143,7 @@ em.projektbold {
 	}
 
 .projekt {
-	color: #fff ;
+	color: #404040  ;
 	text-align: right;
 	padding: 10px;
 	font-family: Trebuchet MS, sans-serif;
@@ -146,12 +151,15 @@ em.projektbold {
 	}
 
 #calosc {
-	background-color: #404040 ;
+	background-color: #F0F0F0;
 	width: 800px;
 	height: auto;
-	padding-top: 30px;
-	margin-top: 20px;	margin-left: auto;
+	padding-top: 0px;
+	margin-top: 10px;	margin-left: auto;
 	margin-right: auto;
+	border-color: #404040;
+	border-width: 1px;
+	opacity: 0.9;
 	}
 	
 #kontakt {
@@ -159,33 +167,48 @@ em.projektbold {
 	}
 	
 #logo {
-	background-color: #404040;
-	color: #fff ;
-	font-size: 200%;
+	background-color: #fff;
+	color: #404040  ;
+	font-size: 160%;
 	height: 25px;
 	text-align: center;
 	opacity: 1;
-	padding: 0px 5px 20px 5px;
+	padding: 20px 5px 2px 5px;
 	border-bottom-style: solid;
-	border-bottom-width: 35px;
+	border-bottom-width: 25px;
 	border-bottom-color: #fff;
+	letter-spacing: 6px;
 	font-family: trebuchet ms, sans-serif;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
+	margin-top: 25px;
 	}
 
 #logo2 {
-	background-color: #404040;
-	color: #fff ;
-	font-size: 200%;
+	background-color: #fff ;
+	color: #404040  ;
+	font-size: 160%;
 	height: 25px;
 	width: 800px;
 	text-align: center;
 	opacity: 1;
-	padding-bottom: 10px;
+	padding: px 5px 20px 5px;
 	border-bottom-style: solid;
 	border-bottom-width: 25px;
-	border-bottom-color: #fff;
+	border-bottom-color: #fff ;
 	margin-bottom: 10px;
+	letter-spacing: 6px;
+	}
+
+#pasek {
+	width: 760px;
+	height: 20px;
+	opacity: 1.0;
+	border-top: solid 2px #D3D3D3;
+	border-bottom: solid 2px #D3D3D3;
+	border-left: solid 2px #D3D3D3;
+	background-color: #DCDCDC;
+	margin-bottom: 20px;
+	padding: 0px;
 	}
 
 #kontakt {
@@ -193,20 +216,24 @@ em.projektbold {
 	}
 	
 #menu {
-	width: 80%;
+	width: 710px;
 	margin : 0;
-	padding-bottom : 20px;
-	background-color: #404040 ;
+	height: 19px;
+	padding-bottom : 10px;
+	padding-top: 0px;
+	background-color: #F0F0F0;
 	border-left-width: 90px;
 	border-left-style: solid;
-	border-color: #fC0;
+	border-color: #404040;
+	border-top: solid 1px #404040;
+	opacity: 0.7;
 	}
 
 img.wizual {
-	border-bottom-color: #fff;
-	border-bottom-width: 5px;
+	border-bottom-color: #fff ;
+	border-bottom-width: 15px;
 	border-bottom-style: solid;
-	opacity: 0.6;
+	opacity: 0.3;
 	}
 
 img:hover {
@@ -216,31 +243,51 @@ img:hover {
 #menu ul {
 	display : inline;
 	list-style-type : none;
-	margin-top: 10px;
+	margin-top: 0px;
 	text-align: center;
+	background-color: #fff;
+	}
+
+#menu a:hover	{
+	opacity: 1.0;
+	background-color: #fff;
 	}
 	
+#menu a:active,
+#menu a:visited.active {
+	display : inline;
+	list-style-type : none;
+	margin-top: 0px;
+	text-align: center;
+	background-color: #fff;
+	}
+
+#menu ul a:hover {
+	opacity: 1.0 !important;
+	}
+
 #menu li {
 	display : inline;
 	list-style-type : none;
-	margin-top: 10px;
+	margin-top: 0px;
 	text-align: center;
 	}	
 
 #menu ul ul {
 	display : inline;
 	list-style-type : none;
-	margin-top: 25px;
+	margin: 29px 0px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
-	background-color: #404040 ;
-	color: #fff;
+	background-color: #F0F0F0;
+	color: #404040 ;
 	position: absolute;
-	z-index: 500;
+
 	}
 	
-#menu ul ul a:link, 
-#menu ul ul a:visited	{
-	color : #fff;
+#menu ul ul a:link	{
+	color : #404040 ;
 	font-size : small;
 	font-weight : normal;
 	line-height : 14px;
@@ -250,59 +297,55 @@ img:hover {
 	opacity: 0.9;
 	}	
 		
-#menu a:link, 
-#menu a:visited	{
-	color : #fff;
-	float : left;
-	font-size : small;
-	font-weight : bold;
-	line-height : 14px;
-	margin-right : 25px;
-	padding : 10px 50px 4px 40px;
-	text-decoration : none;
+#menu a:link {
+	color: #404040;
+	float: left;
+	font-size: small;
+	font-weight: bold;
+	line-height: 14px;
+	margin-right: 25px;
+	padding: 10px 50px 4px 40px;
+	text-decoration: none;
 	opacity: 0.9;
 	}
+	
+#menu a.activemain {
+	opacity: 1.0;
+	background-color: #fff;
+	border: 1px #404040;
+	border-style: none dotted dotted dotted;
+	}	
 
-div#menu ul ul {
+div #menu ul ul {
 	display: none;
 	}
 	
-div#menu ul li:hover ul {
+div #menu ul li:hover ul {
 	display: block;
-	}
-	
-div#menu ul:visited.active li {
-	display: block;
-	}
-	
-#menu a:link.active, 
-#menu a:visited.active	{
-	color : #000;
 	}
 
-#menu a:hover	{
-	opacity: 1.0;
-	color: #fC0;
-	}
+div #menu ul li:active ul {
+	display: block;
+	}	
 	
-#menu ul a:hover {
-	opacity: 1.0 !important;
-	color: #fC0 !important;
+div #menu ul li:visited.active li {
+	display: block;
 	}
 
 #menuboczne {
-	width: 250px;
-	padding: 10px 10px 10px 0px;
+	width: 260px;
+	height: 450px;
+	padding: 8px 10px 10px 10px;
+	margin-top: 20px;
 	margin-right: 0px;
-	margin-left: 0px;
-	margin-bottom: 10px;
-	padding-left: 20px;
+	margin-left: 17px;
+	margin-bottom: 0px;
+
+	border-width: 1px;
+	border-color: #404040;
 	line-height: 1.8;
-	background-color: #404040 ;
-	color: #fff;
-	border-bottom-color: #fff ;
-	border-bottom-width: 10px;
-	border-bottom-style: solid;
+	background-color: #fff;
+	color: #404040;
 	text-align: left;
 	font-size: 100%;
 	font-weight: normal;
@@ -312,88 +355,96 @@ div#menu ul:visited.active li {
 #menuboczne a:link {
 	font-size: smaller;
 	opacity: 1.0;
-	color: #fff;
+	color: #404040;
 	}
 
-#menuboczne a:link.active, #menuboczne a:visited.active {
+#menuboczne a:link.active {
 	font-size: smaller;
 	opacity: 1.0;
-	color: #fff;
+	color: red;
 	}
 
 #menuboczne a:visited {
 	font-size: smaller;
 	opacity: 0.9;
-	color: #fff;
+	color: #404040;
 	}
 	
 #menuboczne a:hover {
 	font-size: smaller;
 	opacity: 1.0;
 	color: #fC0;
+	font-style: bold;
 	}
-	
+
+#menuboczne a.active {
+	color: #404040;
+	font-weight: bold;
+	}	
+
 #tresc {
-	width: 400px;
+	width: 460px;
 	float: right;
-	background-color: #404040;
+	background-color: #F0F0F0;
 	margin-top: 20px;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 	padding: 15px 15px 15px 15px;
 	text-align: right;
-	border-color: #fff; 
-	border-bottom-width: 10px;
-	border-bottom-style: solid;
 	}
 	
 #trescmain {
-	width: 700px;
-	margin-top: 10px;
+	width: 720px;
 	float: center;
-	background-color: #404040;
+	background-color: #fff;
 	clear : both;
-	margin-left: 0px;
-	padding : 5px;
-	padding-left: 40px;
-	border-color: #fff; 
-	border-bottom-width: 10px;
-	border-bottom-style: solid;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	padding : 5px 5px 5px 40px;
 	line-height: 1.8;
+	border-color: #404040;
+
+	border-width: 1px 1px 1px 1px; 
 	}
 	
 #stopka {
-	width: 800px;
+	width: 782px;
 	height: 20px;
-	background-color: #404040 ;
-	margin-top: 20px;	
-	padding-top: 10px;
-	padding-bottom: 25px;
+	background-color: #fff;
+	margin-top: 0px;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	text-align: center;
-	float: bottom;
+	border-right: solid 18px #404040;
+	float: center;
 	clear: both;
 	opacity: 0.6;
 	font-size: small;
 	}
 	
 @media screen {
-  p.test {
+  	p.test {
   		font-family:trebuchet ms,sans-serif;
   		font-size:14px;
   		font-color: #000;
   		}
-  }
+  	}
 
 @media print {
-  p.test {
+  	p.test {
   		font-family:trebuchet ms,sans-serif;
   		font-size:10px;
   		font-color: #000;
   		}
-  }
+  	}
   
 @media screen,print {
-  p.test {font-weight:bold;}
-  }
+  	p.test {font-weight:bold;}
+  	}
 	
 	
 	

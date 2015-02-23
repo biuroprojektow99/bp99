@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
         
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
 <head>	
 
 	<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>
@@ -21,7 +22,6 @@
 <div id="calosc">
 
 <div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
-
 
 <!--tu siê zaczyna menu-->
 
@@ -56,45 +56,44 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
-	<div id="menuboczne">
+		<div id="menuboczne">
 		
 				<a href="mieszkan2.html"> Dom jednorodzinny w Lublinie I </a><br />
 				<a href="mieszkan1.html"> Dom jednorodzinny w Lublinie II </a><br />
-				<a href="mieszkan3.html"> Dom jednorodzinny w D±brówce </a><br />
-				<a href="mieszkan4.html"> Dom jednorodzinny w Jastkowie </a><br /><br />
+				<a href="mieszkan3.html"> Dom jednorodzinny w gm. Kamionka</a><br />
+				<a href="mieszkan4.html" class="active"> Dom jednorodzinny w gm. Jastków </a><br /><br />
 				<a href="mieszkan5.html"> Budynek wielorodzinny w Radzyniu </a><br />				
 		
 		</div>
 
 	<div id="tresc">
 		<p class="projekt"> 
-			<b>Dom jednorodzinny w Jastkowie</b>		
+			<b>Dom jednorodzinny w gminie Jastków</b>		
 				<br /><br />
-			
+			Dom po³o¿ony na wzniesieniu, na rozleg³ej dzia³ce, zdystansowany wzglêdem otaczaj±cej zabudowy.<br /><br />
 			<em class="projektbold">Data opracowania:</em> 2007 r.<br />
 			<em class="projektbold">Powierzchnia:</em> 200 m&sup2;<br />
-			<em class="projektbold">Inwestor:</em> prywatny<br /><br />  
+			<em class="projektbold">Inwestor:</em> prywatny 
 
-			Dom po³o¿ony na wzniesieniu, na rozleg³ej dzia³ce, zdystansowany wzglêdem otaczaj±cej zabudowy.			
+					
 			
 		</p> 
 
 	<a href="img/mieszkan4a.jpg" rel="lightbox[mieszkan4]" title="Elewacja frontowa"><img src="img/mieszkan4a.jpg" alt="Dom jednorodzinny w Jastkowie" height="50" class="wizual" /></a>
 	<a href="img/mieszkan4b.jpg" rel="lightbox[mieszkan4]" title="Rzut parteru"><img src="img/mieszkan4b.jpg" alt="Dom jednorodzinny w Jastkowie" height="50" class="wizual" /></a>
 	<a href="img/mieszkan4c.jpg" rel="lightbox[mieszkan4]" title="Rzut piêtra"><img src="img/mieszkan4c.jpg" alt="Dom jednorodzinny w Jastkowie" height="50" class="wizual" /></a>
-	<a href="img/mieszkan4d.jpg" rel="lightbox[mieszkan4]" title="Sytuacja"><img src="img/mieszkan4d.jpg" alt="Dom jednorodzinny w Jastkowie" height="50" class="wizual" /></a>
+
 
 	</div>
-
+	
 <div id="stopka">
 	
 		<a href="index.html"> &copy; Biuro Projektów 99 Ma³gorzata Wa³êga 
 		</a>
 
-</div>
-
+</div>	
+	
 </div>
 
 </body>

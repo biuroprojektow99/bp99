@@ -1,6 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
-        
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
+       
 	<head>	
 
 		<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>
@@ -19,8 +21,7 @@
 
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -55,26 +56,27 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
 	<div id="menuboczne">
-	
+		
 			<a href="sport1.html">Sala widowiskowo-sportowa w Lublinie </a><br />		
-			<a href="sport2.html">Sala widowiskowo-sportowa w Michowie </a><br />
-			<a href="sport3.html">Hala sportowa w Wojciechowie </a><br />
-	
-		</div>
+			<a href="sport2.html" class="active">Sala widowiskowo-sportowa w Michowie </a><br />
+			<a href="sport3.html">Sala widowiskowo-sportowa w Wojciechowie </a><br /><br />
+			
+			<a href="sport4.html">O¶rodek wypoczynkowy w Su¶cu </a><br />
+							
+		</div>	
 
 	<div id="tresc">
-<p class="projekt"> <b>Sala widowiskowo-sportowa w Michowie </b> <br /><br />
-	<em class="projektbold">Data projektu:</em> 2010 <br />
-	<em class="projektbold">Powierzchnia:</em> 2 000 m2 <br />
-	<em class="projektbold">Inwestor:</em> prywatny <br /><br />
-	
-	Sala widowiskowo-sportowa przy zespole szkó³ z zapleczem socjalno-sanitarnym i klaso-pracowniami. </p> 
+<p class="projekt"> <b>Sala widowiskowo-sportowa przy zespole szkó³ z zapleczem socjalno-sanitarnym i klaso-pracowniami w Michowie </b> <br /><br />
 
+Rozbudowa budynku Zespo³u Szkó³ Ogólnokszta³c±cych w&nbsp;Michowie. Projektowany obiekt sk³ada siê z: <br />
+- hali sportowej o powierzchni 1028 m&sup2; - sala posiada widowniê ruchom± i&nbsp;sta³± na antresoli - na ok. 360 osób.<br />
+- 2-kondygnacyjnej czê¶ci zapleczowej, mieszcz±cej pomieszczenia szatniowo-natryskowe, pomocnicze salê gimnastyki rehabilitacyjnej, oraz dydaktyczne: pracowniê komputerow±, biologiczn± z zapleczem oraz czê¶æ biblioteczn± ze stanowiskami komputerowymi.<br /><br />
 
-
+	<em class="projektbold">Data projektu:</em> 2010 r.<br />
+	<em class="projektbold">Powierzchnia:</em> 1 910 m&sup2;<br />
+	<em class="projektbold">Inwestor:</em> prywatny  </p> 
 
 	</div>
 

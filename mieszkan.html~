@@ -14,10 +14,10 @@
 	
 <body class="section-2">
 
+
 <div id="calosc">
 
 <div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
-
 
 <!--tu siê zaczyna menu-->
 
@@ -54,19 +54,16 @@
 
 
 
-<br />
 	
 	<div id="menuboczne">
-			
-				<a href="mieszkan1.html"> Dom jednorodzinny w Lublinie I </a><br />
-				<a href="mieszkan2.html"> Dom jednorodzinny w Lublinie II </a><br />
-				<a href="mieszkan3.html"> Dom jednorodzinny w D±brówce </a><br />
-				<a href="mieszkan4.html"> Dom jednorodzinny w Jastkowie </a><br /><br />
+		
+				<a href="mieszkan2.html"> Dom jednorodzinny w Lublinie I </a><br />
+				<a href="mieszkan1.html"> Dom jednorodzinny w Lublinie II </a><br />
+				<a href="mieszkan3.html"> Dom jednorodzinny w gm. Kamionka</a><br />
+				<a href="mieszkan4.html"> Dom jednorodzinny w gm. Jastków </a><br /><br />
 				<a href="mieszkan5.html"> Budynek wielorodzinny w Radzyniu </a><br />				
-			
+		
 		</div>
-
-
 
 <div id="stopka">
 	

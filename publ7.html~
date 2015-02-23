@@ -1,6 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
         
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
+
 	<head>	
 
 		<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>
@@ -19,8 +21,7 @@
 
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -55,12 +56,11 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
 	<div id="menuboczne">
 	
 				<a href="publ1.html"> Dom dziecka w Lublinie </a><br />
-				<a href="publ7.html"> Dom opieki w Rykach </a><br />
+				<a href="publ7.html" class="active"> Dom opieki w Rykach </a><br />
 				<a href="publ2.html"> Park przemys³owy w ¦Œwidniku </a><br /><br />
 				<a href="publ3.html"> Przychodnia zdrowia w Lublinie </a><br />
 				<a href="publ4.html"> Przychodnia zdrowia w Krasieninie </a><br />	
@@ -69,10 +69,10 @@
 		</div>
 
 	<div id="tresc">
-<p class="projekt"> <b>Dom opieki w Rykach </b> <br /><br />
-Dom opieki nad osobami starszymi i przewlekle chorymi. <br /><br />
-	<em class="projektbold">Data projektu:</em> 2010 <br />
-	<em class="projektbold">Powierzchnia:</em> 2 000 m2 <br />
+<p class="projekt"> <b>Dom opieki ca³odobowej nad osobami w podesz³ym wieku i&nbsp;przewlekle chorymi.</b><br /><br />
+Budynek sk³ada siê z 2-kondygnacyjnej czê¶ci centralnej oraz dwóch parterowych skrzyde³. Czê¶æ centralna mie¶ci pomieszczenia ogólnodostêpne dla pensjonariuszy i interesantów na parterze, natomiast na piêtrze - pomieszczenia techniczne i&nbsp;pomocnicze przeznaczone wy³±cznie dla personelu. Skrzyd³a zajmuj± 2-osobowe pokoje z ³azienkami dla pensjonariuszy (³±cznie dla 32 osób).<br /><br />
+	<em class="projektbold">Data projektu:</em> 2010 r.<br />
+	<em class="projektbold">Powierzchnia:</em> 725 m&sup2;<br />
 	<em class="projektbold">Inwestor:</em> prywatny <br />
 	 </p> 
 	
@@ -87,6 +87,7 @@ Dom opieki nad osobami starszymi i przewlekle chorymi. <br /><br />
 		</a>
 
 </div>
+
 
 </div>
 

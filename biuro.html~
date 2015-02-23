@@ -13,10 +13,8 @@
 <body class="section-1">
 
 <div id="calosc">
-
-<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
-
 <!--tu siê zaczyna menu-->
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <div id="menu">
 
@@ -63,6 +61,7 @@
 	</ul> 
 	<br /><br />
 </div>
+
 <div id="stopka">
 	
 		<a href="index.html"> &copy; Biuro Projektów 99 Ma³gorzata Wa³êga 
@@ -70,11 +69,8 @@
 
 </div>
 
-
 </div>
 
 </body>
 </html>
-	
-	
 	

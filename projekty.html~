@@ -16,7 +16,6 @@
 <body class="section-2">
 
 <div id="calosc">
-
 <div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna MENU, KTÓRE NIE CHCE DZIA£AÆ-->
@@ -27,7 +26,7 @@
 
 		<li><a href="biuro.html">BIURO</a></li>
 
-		<li><a href="projekty.html">PROJEKTY</a>	
+		<li><a href="projekty.html" class="activemain">PROJEKTY</a>	
 
 			<ul>
 
@@ -37,7 +36,7 @@
 				<li><a href="publiczne.html">u¿yteczno¶œæ publiczna</a>				
 				</li>
 
-				<li><a href="przemysl.html">sport i rekreacja</a>
+				<li><a href="sport.html">sport i rekreacja</a>
 				</li>
 
 				<li><a href="wnetrza.html">wnêtrza</a>
@@ -54,7 +53,7 @@
 
 <div id="trescmain">
 
-<p>	OBIEKTY REFERENCYJNE: </p> <br />
+<p>	OBIEKTY REFERENCYJNE: </p> 
 		
 		<ul class="lista">
 			<li><a href="mieszkan.html"> Budynki mieszkalne:</a>		

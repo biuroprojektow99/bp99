@@ -1,5 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
         
 <head>	
 
@@ -13,10 +15,10 @@
 	
 <body class="section-2">
 
+
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -51,7 +53,6 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
 	<div id="menuboczne">
 		
@@ -65,9 +66,9 @@
 	<div id="tresc">
 <br />
 	<p class="projekt"> <b>Dom jednorodzinny w Lublinie</b> <br />
-	Data projektu: 2011 <br />
-	Powierzchnia: 220 m2 <br />
-	Inwestor: prywatny <br />
+	Data projektu: 2011 r.<br />
+	Powierzchnia: 220 m&sup2;<br />
+	Inwestor: prywatny<br />
 	
 	Dom mieszkalny jednorodzinny.... </p> <br /> 
 

@@ -13,9 +13,7 @@
 
 <body>
 
-
-<div id="calosc">
-
+<div id="calosc">
 <div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
@@ -26,7 +24,7 @@
 
 		<li><a href="biuro.html">BIURO</a></li>
 
-		<li><a href="projekty.html">PROJEKTY</a>	
+		<li><a href="projekty.html" class="activemain">PROJEKTY</a>	
 
 			<ul>
 
@@ -51,25 +49,27 @@
 
 <!--tu siê menu koñczy-->
 
+
 <div id="trescmain">
 
 	<p><em class="smallplus">adres:</em>Lublin 20-950 <br />
 	<em class="large">ul. Unicka 4 pok. 113</em><br /><br />
 	<em class="xsmall">tel/fax:</em>	81 747 51 51 <br /> 
 	<em class="medium">tel:</em> 502 61 88 91 <br />
-	<em class="small">mail:</em><a class="mail" href="mailto:biuro99@post.pl"> biuro99@post.pl</a></p>
-	<br />
+	<em class="small">mail:</em><a class="mail" href="mailto:biuro99@post.pl"> biuro99@post.pl</a></p><br />
+	
+
 	<p><em class="small">lokalizacja:</em></p>
 		
-	<img src="img/mapka.jpg" alt="Lokalizacja"/ style="border:10px; border-color:#fff; border-right-style:solid;" >
+	<img src="img/mapka.jpg" alt="Lokalizacja" style="border:10px; border-color:#fff ; border-bottom-style:solid;" />
 	<br />
-		<div style="background:#404040; width:276px; height:25px;">
+		<div style="background:#F0F0F0 ; width:137px; height:25px;">
 			<a href="http://www.zumi.pl/namapie.html?loc=Lublin%2C+Unicka+4&Submit=Szukaj&src=1" 
-				title="mapa Polski, mapy i plany miast, zdjêcia satelitarne" style="display:block; font:11px Trebuchet MS; color:#fff; float:left; padding:5px 10px 0px 10px;">
+				title="mapa Polski, mapy i plany miast, zdjêcia satelitarne" style="display:block; font:11px Trebuchet MS; color:#404040 ; float:left; padding:5px 10px 0px 10px;">
 				Zobacz w:
 			</a>
-			<a href="http://www.zumi.pl/namapie.html?loc=Lublin%2C+Unicka+4&Submit=Szukaj&src=1" title="mapa Polski, mapy i plany miast, zdjêcia satelitarne">
-			<img src="http://www.zumi.pl/_d/wizard/logo00new.gif" width="64" height="21" alt="zumi.pl" border="0" style="position:relative; top:2px;" />
+			<a href="http://www.zumi.pl/namapie.html?loc=Lublin%2C+Unicka+4&submit=Szukaj&src=1" title="mapa Polski, mapy i plany miast, zdjêcia satelitarne">
+			<img src="img/logo00new.gif" width="64" height="21" alt="zumi.pl" style="position:relative; top:2px;" />
 			</a>
 		</div>	
 	<br /></div>

@@ -1,5 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
         
 <head>	
 
@@ -12,11 +14,9 @@
 	<!--Zaczyna siê strona-->
 	
 <body class="section-2">
-
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -51,20 +51,16 @@
 
 <!--tu siê menu koñczy-->
 
-
-
-<br />
 	
 	<div id="menuboczne">
 		
 			<a href="sport1.html">Sala widowiskowo-sportowa w Lublinie </a><br />		
 			<a href="sport2.html">Sala widowiskowo-sportowa w Michowie </a><br />
-			<a href="sport3.html">Hala sportowa w Wojciechowie </a><br />
+			<a href="sport3.html">Sala widowiskowo-sportowa w Wojciechowie </a><br /><br />
+			
+			<a href="sport4.html">O¶rodek wypoczynkowy w Su¶cu </a><br />
 							
-	
 		</div>	
-		
-
 
 <div id="stopka">
 	

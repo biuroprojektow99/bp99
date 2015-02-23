@@ -6,7 +6,8 @@
 	<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-89-2" />
 	<link type="text/css" rel="stylesheet" href="biuro.css" />
-
+	<meta name="Keywords" content="architektura, budownictwo, projekty, biuro architektoniczne, biuro projektowe, biuro projektów, lublin, biuro projektów 99, ma³gorzata wa³êga, wa³êga" />
+	
 	</head>
 
 <!--Zaczyna siê strona-->
@@ -18,10 +19,10 @@
 	
 		<div id="adres">
 			<p>
-				ul. Unicka 4 pok. 113, Lublin 20-950 <br />
-				<b><em>tel:</em></b> 81 747 51 51 <br /> 
-				<b><em>kom:</em></b> 502 61 88 91 <br />
-				<b><em>mail:</em></b> <a class="mail" href="mailto:biuro99@post.pl">biuro99@post.pl <br /> </a>
+				Lublin 20-950, ul. Unicka 4 pok. 113<br />
+				<b><em>tel:</em></b> 81 747 51 51<br /> 
+				<b><em>kom:</em></b> 502 61 88 91<br />
+				<b><em>mail:</em></b> <a class="mail" href="mailto:biuro99@post.pl">biuro99@post.pl</a>
 			</p>
 		</div>
 	</div>

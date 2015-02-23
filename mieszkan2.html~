@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
-        
+    
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">     
 <head>	
 
 	<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>
@@ -56,22 +57,21 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
 	<div id="menuboczne">
 		
-				<a href="mieszkan2.html"> Dom jednorodzinny w Lublinie I </a><br />
+				<a href="mieszkan2.html" class="active"> Dom jednorodzinny w Lublinie I </a><br />
 				<a href="mieszkan1.html"> Dom jednorodzinny w Lublinie II </a><br />
-				<a href="mieszkan3.html"> Dom jednorodzinny w D±brówce </a><br />
-				<a href="mieszkan4.html"> Dom jednorodzinny w Jastkowie </a><br /><br />
+				<a href="mieszkan3.html"> Dom jednorodzinny w gm. Kamionka</a><br />
+				<a href="mieszkan4.html"> Dom jednorodzinny w gm. Jastków </a><br /><br />
 				<a href="mieszkan5.html"> Budynek wielorodzinny w Radzyniu </a><br />				
-		
 		</div>
 
 	<div id="tresc">
 	
-	<p class="projekt"> <b>Dom jednorodzinny w Lublinie II</b> <br /><br />
-	Dom jednorodzinny o trzech kodygnacjach, usytuowany na wysokiej skarpie. Bezpo¶redni dojazd zapewniony jest tylko do najwy¿szej kondygnacji, wobec tego tradycyjny uk³ad funkcjonalny zosta³ odwrócony. Na górze znajduje siê gara¿, natomiast piêtro ni¿ej czê¶æ dzienna. <br /><br />
+	<p class="projekt"> <b>Dom jednorodzinny w Lublinie I</b> <br /><br />
+	Dom jednorodzinny zaprojektowany na dzia³ce o bardzo du¿ym k±cie nachylenia. Ró¿nica poziomów pomiêdzy rzêdn± ulicy a&nbsp;terenem w obrysie budynku z ty³u dzia³ki wynosi 7 m. Na tak trudnym terenie zaprojektowano dom ze stref± wej¶ciow± i&nbsp;gara¿em na najwy¿szej kondygnacji. Na dwóch kondygnacjach. Na dwóch kondygnacjach poni¿ej zaprojektowano pomieszczenia mieszkalne i&nbsp;pomieszczenia gospodarcze - od strony skarpy.<br /><br />
+	
 	<em class="projektbold">Data opracowania:</em> 2010 r.<br />
 	<em class="projektbold">Powierzchnia:</em> 339 m&sup2;<br />
 	<em class="projektbold">Inwestor:</em> prywatny<br />  </p> 

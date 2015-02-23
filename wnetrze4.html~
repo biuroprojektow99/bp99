@@ -1,5 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
         
 <head>	
 
@@ -17,11 +19,9 @@
 	<!--Zaczyna siê strona-->
 	
 <body class="section-2">
-
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -31,7 +31,7 @@
 
 		<li><a href="biuro.html">BIURO</a></li>
 
-		<li><a href="projekty.html">PROJEKTY</a>	
+		<li><a href="projekty.html" class="activemain">PROJEKTY</a>	
 
 			<ul>
 
@@ -56,13 +56,11 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
 	<div id="menuboczne">
 		
-				<a href="wnetrze1.html"> Salon optyczny w ¦widniku </a><br />
 				<a href="wnetrze3.html"> Biblioteka KUL </a><br />
-				<a href="wnetrze4.html"> Mieszkanie w Lublinie </a><br />			
+				<a href="wnetrze4.html" class="active"> Mieszkanie w Lublinie </a><br />			
 			
 		
 		</div>
@@ -70,10 +68,10 @@
 	<div id="tresc">
 
 	<p class="projekt"> <b>Mieszkanie w Lublinie</b> <br /><br />
-		Mieszkanie zlokalizowane w zabytkowej kamienicy na Starym Mie¶cie. Wiêkszo¶æ ¶cian dzia³owych zosta³a wyburzona, co umo¿liwi³o stworzenie przestronnej czê¶ci dziennej, z której wyodrêbniono tylko sypialniê i ³azienkê. Zachowano bia³± pod³ogê oraz ods³oniêto ceg³ê na ¶cianie konstrukcyjnej biegn±cej wzd³u¿ ca³ego mieszkania. <br /><br />  
+		Mieszkanie zlokalizowane w zabytkowej kamienicy na Starym Mie¶cie. Wiêkszo¶æ ¶cian dzia³owych zosta³a wyburzona, co umo¿liwi³o stworzenie przestronnej czê¶ci dziennej, z której wyodrêbniono tylko sypialniê i&nbsp;³azienkê. Zachowano bia³± pod³ogê oraz ods³oniêto ceg³ê na ¶cianie konstrukcyjnej biegn±cej wzd³u¿ ca³ego mieszkania. <br /><br />  
 		<em class="projektbold">Data opracowania:</em> 2011 r.<br />
-		<em class="projektbold">Powierzchnia:</em> 52 m&sup2; <br />
-		<em class="projektbold">Inwestor:</em> prywatny <br />
+		<em class="projektbold">Powierzchnia:</em> 52 m&sup2;<br />
+		<em class="projektbold">Inwestor:</em> prywatny<br />
 	
 	</p>  
 

@@ -1,5 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
         
 	<head>	
 
@@ -20,8 +22,7 @@
 
 <div id="calosc">
 
-<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
-
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</div>
 
 <!--tu siê zaczyna menu-->
 
@@ -56,23 +57,27 @@
 
 <!--tu siê menu koñczy-->
 
-<br />
 	
 	<div id="menuboczne">
-	
-			<a href="sport1.html">Sala widowiskowo-sportowa w Lublinie </a><br />		
+		
+			<a href="sport1.html" class="active">Sala widowiskowo-sportowa w Lublinie </a><br />		
 			<a href="sport2.html">Sala widowiskowo-sportowa w Michowie </a><br />
-			<a href="sport3.html">Hala sportowa w Wojciechowie </a><br />
-	
-		</div>
+			<a href="sport3.html">Sala widowiskowo-sportowa w Wojciechowie </a><br /><br />
+			
+			<a href="sport4.html">O¶rodek wypoczynkowy w Su¶cu </a><br />
+							
+		</div>	
 
 	<div id="tresc">
-<p class="projekt"> <b>Sala widowiskowo-sportowa w Lublinie </b> <br /><br />
-	<em class="projektbold">Data projektu:</em> 2010 <br />
-	<em class="projektbold">Powierzchnia:</em> 2 000 m2 <br />
-	<em class="projektbold">Inwestor:</em> CRH Akademos <br /><br />
-	
-	Sala widowiskowo-sportowa przy zespole szkó³ z zapleczem socjalno-sanitarnym i klaso-pracowniami. </p> 
+<p class="projekt"> <b>Sala widowiskowo-sportowa przy zespole szkó³ z zapleczem socjalno-sanitarnym i klaso-pracowniami w Lublinie </b> <br /><br />
+Rozbudowa Zespo³u Szkó³ im. I.J. Paderewskiego w Lublinie, obejmuj±ca:<br />
+- budowê hali sportowej o pow. u¿ytkowej 1188 m&sup2;<br />
+- budowê "£±cznika" - budynku ³±cz±cego w jeden organizm istniej±ce budynki gimnazjum i szko³y podstawowej z&nbsp;projektowan± hal± sportow±.<br />
+"£±cznik" stanowi strefê wej¶ciow± do czê¶ci sportowej obejmuj±cej halê sportow±, si³owniê, sale sztuki walki, aerobik, zespó³ odnowy biologicznej oraz zespo³y szatniowo-natryskowe i&nbsp;pomieszczenia towarzysz±ce.<br /><br />
+
+	<em class="projektbold">Data projektu:</em> 2010 r.<br />
+	<em class="projektbold">Powierzchnia:</em> 2 819 m&sup2;<br />
+	<em class="projektbold">Inwestor:</em> CRH Akademos  </p> 
 
 	<a href="img/publ5a.jpg" rel="lightbox[mieszkan1]" title="Wizualizacja"><img src="img/publ5a.jpg" alt="Sala widowiskowo-sportowa" height="50" class="wizual" /></a>
 	
