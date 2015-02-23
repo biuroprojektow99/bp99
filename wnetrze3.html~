@@ -12,7 +12,7 @@
         
 	<script type="text/javascript" src="js/prototype.js"></script>
 	<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
-	<script type="text/javascript" src="js/lightbox.js"></script>      
+	<script type="text/javascript" src="js/lightbox.js"></script>   
         
 </head>
 
@@ -33,7 +33,21 @@
 
 		<li><a href="projekty.html" class="activemain">PROJEKTY</a>	
 
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
 				</li>
+					
+				<li><a href="publiczne.html">użyteczności publicznej</a>				
+				</li>
+
+				<li><a href="sport.html">sport i rekreacja</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnętrza</a>
+				</li>
+			</ul>
+		</li>
 
 		<li><a href="kontakt.html">KONTAKT</a></li>
 	</ul>
@@ -45,23 +59,22 @@
 	
 	<div id="menuboczne">
 		
-				<a href="wnetrze1.html" class="active"> Salon optyczny w Świdniku </a><br />
-				<a href="wnetrze3.html"> Biblioteka KUL </a><br />
+				<a href="wnetrze3.html" class="active"> Biblioteka KUL </a><br />
 				<a href="wnetrze4.html"> Mieszkanie w Lublinie </a><br />			
 			
 		
 		</div>
 
 	<div id="tresc">
-	<p class="projekt"> <b>Salon optyczny w Świdniku</b> <br /><br />
-		Salon optyczny, mieszczacy się w Galerii xxx w Świdniku.<br /><br />  
+	<p class="projekt"> <b>Biblioteka KUL</b> <br /><br />
+		Zakres inwestycji obejmował przeprojektowanie zarówno starej jak i nowej czytelni wraz z holem i zapleczami.<br /><br />  
 		<em class="projektbold">Data opracowania:</em> 2007 r.<br />
-		<em class="projektbold">Powierzchnia:</em> 80 m&sup2;<br />
-		<em class="projektbold">Inwestor:</em> prywatny<br />
+		<em class="projektbold">Powierzchnia:</em> 1 063 m&sup2;<br />
+		<em class="projektbold">Inwestor:</em> Katolicki Uniwersytet Lubelski<br />
 	
 	</p>  
 
-	<a href="img/wnetrze1a.jpg" rel="lightbox[wnetrze1]" title="Stan istniejący" class="wizual"><img src="img/wnetrze1a.jpg" alt="Salon optyczny" height="50" class="wizual" /></a>
+	<a href="img/wnetrze3a.jpg" rel="lightbox[wnetrze3]" title="Rzut" class="wizual"><img src="img/wnetrze3a.jpg" alt="Biblioteka KUL" height="50" class="wizual" /></a>
 	
 
 	</div>

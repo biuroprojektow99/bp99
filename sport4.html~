@@ -33,7 +33,21 @@
 
 		<li><a href="projekty.html" class="activemain">PROJEKTY</a>	
 
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
 				</li>
+					
+				<li><a href="publiczne.html">użyteczność publiczna</a>				
+				</li>
+
+				<li><a href="sport.html">sport i rekreacja</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnętrza</a>
+				</li>
+			</ul>
+		</li>
 
 		<li><a href="kontakt.html">KONTAKT</a></li>
 	</ul>

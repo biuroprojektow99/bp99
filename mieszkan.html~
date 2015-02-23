@@ -1,7 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
-
-<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">  
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">    
         
 <head>	
 
@@ -14,6 +13,8 @@
 	<!--Zaczyna się strona-->
 	
 <body class="section-2">
+
+
 <div id="calosc">
 
 <div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MAŁGORZATA WAŁĘGA</div>
@@ -28,7 +29,21 @@
 
 		<li><a href="projekty.html" class="activemain">PROJEKTY</a>	
 
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
 				</li>
+					
+				<li><a href="publiczne.html">użyteczność publiczna</a>				
+				</li>
+
+				<li><a href="sport.html">sport i rekreacja</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnętrza</a>
+				</li>
+			</ul>
+		</li>
 
 		<li><a href="kontakt.html">KONTAKT</a></li>
 	</ul>
@@ -38,11 +53,16 @@
 <!--tu się menu kończy-->
 
 
+
+	
 	<div id="menuboczne">
-	
-				<a href="wnetrze3.html"> Biblioteka KUL </a><br />
-				<a href="wnetrze4.html"> Mieszkanie w Lublinie </a><br />			
-	
+		
+				<a href="mieszkan2.html"> Dom jednorodzinny w Lublinie I </a><br />
+				<a href="mieszkan1.html"> Dom jednorodzinny w Lublinie II </a><br />
+				<a href="mieszkan3.html"> Dom jednorodzinny w gm. Kamionka</a><br />
+				<a href="mieszkan4.html"> Dom jednorodzinny w gm. Jastków </a><br /><br />
+				<a href="mieszkan5.html"> Budynek wielorodzinny w Radzyniu </a><br />				
+		
 		</div>
 
 <div id="stopka">
