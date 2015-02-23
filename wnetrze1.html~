@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+        
+<head>	
+
+	<title>Biuro Projektów 99 Małgorzata Wałęga</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />	
+	<link type="text/css" rel="stylesheet" href="biuro.css" />
+	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+        
+	<script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="js/lightbox.js"></script>      
+        
+</head>
+
+	<!--Zaczyna się strona-->
+	
+<body class="section-2">
+
+<div id="calosc">
+
+<div id="logo">BIURO PROJEKTÓW 99 MAŁGORZATA WAŁĘGA</div>
+
+
+<!--tu się zaczyna menu-->
+
+<div id="menu">
+
+	<ul>
+
+		<li><a href="biuro.html">BIURO</a></li>
+
+		<li><a href="projekty.html">PROJEKTY</a>	
+
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
+				</li>
+					
+				<li><a href="publiczne.html">użyteczności publicznej</a>				
+				</li>
+
+				<li><a href="sport.html">sport i rekreacja</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnętrza</a>
+				</li>
+			</ul>
+		</li>
+
+		<li><a href="kontakt.html">KONTAKT</a></li>
+	</ul>
+
+</div>
+
+<!--tu się menu kończy-->
+
+<br />
+	
+	<div id="menuboczne">
+		
+				<a href="wnetrze1.html"> Salon optyczny w Świdniku </a><br />
+				<a href="wnetrze3.html"> Biblioteka KUL </a><br />
+				<a href="wnetrze4.html"> Mieszkanie w Lublinie </a><br />			
+			
+		
+		</div>
+
+	<div id="tresc">
+	<p class="projekt"> <b>Salon optyczny w Świdniku</b> <br /><br />
+		Salon optyczny, mieszczacy się w Galerii xxx w Świdniku.   <br /><br />  
+		<em class="projektbold">Data opracowania:</em> 2007 r.<br />
+		<em class="projektbold">Powierzchnia:</em> 80 m&sup2; <br />
+		<em class="projektbold">Inwestor:</em> prywatny <br />
+	
+	</p>  
+
+	<a href="img/wnetrze1a.jpg" rel="lightbox[wnetrze1]" title="Stan istniejący" class="wizual"><img src="img/wnetrze1a.jpg" alt="Salon optyczny" height="50" class="wizual" /></a>
+	
+
+	</div>
+
+<div id="stopka">
+	
+		<a href="index.html"> &copy; Biuro Projektów 99 Małgorzata Wałęga 
+		</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
+	
+	
+	

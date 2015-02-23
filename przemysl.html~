@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+        
+<head>	
+
+	<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-89-2" />	
+	<link type="text/css" rel="stylesheet" href="biuro.css" />
+        
+</head>
+
+	<!--Zaczyna siê strona-->
+	
+<body class="section-2">
+
+<div id="calosc">
+
+<div id="logo">BIURO PROJEKTÓW 99 MA£GORZATA WA£ÊGA</div>
+
+
+<!--tu siê zaczyna menu-->
+
+<div id="menu">
+
+	<ul>
+
+		<li><a href="biuro.html">BIURO</a></li>
+
+		<li><a href="projekty.html">PROJEKTY</a>	
+
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
+				</li>
+					
+				<li><a href="publiczne.html">u¿ytecznoœci publicznej</a>				
+				</li>
+
+				<li><a href="przemysl.html">przemys³owe</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnêtrza</a>
+				</li>
+			</ul>
+		</li>
+
+		<li><a href="kontakt.html">KONTAKT</a></li>
+	</ul>
+
+</div>
+
+<!--tu siê menu koñczy-->
+
+
+
+<br />
+	
+	<div id="menuboczne">
+		
+				<a href="rolmax.html"> Sprzeda¿ i serwis maszyn rolniczych </a><br />
+				<a href="zamosc.html"> Serwis samochodowy w Zamoœciu </a><br />
+							
+	
+		</div>	
+		
+
+
+<div id="stopka">
+	
+		<a href="index.html"> &copy; Biuro Projektów 99 Ma³gorzata Wa³êga 
+		</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
+	
+	
+	

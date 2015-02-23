@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	
+        
+<head>	
+
+	<title>Biuro Projektów 99 Małgorzata Wałęga</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />		
+	<link type="text/css" rel="stylesheet" href="biuro.css" />
+        
+</head>
+
+	<!--Zaczyna się strona-->
+	
+<body class="section-2">
+
+<div id="calosc">
+
+<div id="logo">BIURO PROJEKTÓW 99 MAŁGORZATA WAŁĘGA</div>
+
+
+<!--tu się zaczyna menu-->
+
+<div id="menu">
+
+	<ul>
+
+		<li><a href="biuro.html">BIURO</a></li>
+
+		<li><a href="projekty.html">PROJEKTY</a>	
+
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
+				</li>
+					
+				<li><a href="publiczne.html">użyteczność publiczna</a>				
+				</li>
+
+				<li><a href="sport.html">sport i rekreacja</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnętrza</a>
+				</li>
+			</ul>
+		</li>
+
+		<li><a href="kontakt.html">KONTAKT</a></li>
+	</ul>
+
+</div>
+
+<!--tu się menu kończy-->
+
+<br />
+	
+	<div id="menuboczne">
+		
+				<a href="sport1.html"> Sprzedaż i serwis maszyn rolniczych </a><br />
+				<a href="sport2.html"> Serwis samochodowy w Zamociu </a><br />				
+		
+		</div>
+
+	<div id="tresc">
+<br />
+	<p class="projekt"> <b>Dom jednorodzinny w Lublinie</b> <br />
+	Data projektu: 2011 <br />
+	Powierzchnia: 220 m2 <br />
+	Inwestor: prywatny <br />
+	
+	Dom mieszkalny jednorodzinny.... </p> <br /> 
+
+	<img src="img/mieszkan3.jpg" alt="Dom w Lublinie I" width="400" />
+
+
+	</div>
+
+<div id="stopka">
+	
+		<a href="index.html"> &copy; Biuro Projektów 99 Małgorzata Wałęga 
+		</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
+	
+	
+	

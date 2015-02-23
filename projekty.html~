@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+        
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+		<title>Biuro Projektów 99 Małgorzata Wałęga</title>
+		<link type="text/css" rel="stylesheet" href="biuro.css" />
+
+	</head>
+
+	
+<!--Zaczyna się strona-->
+
+<body class="section-2">
+
+<div id="calosc">
+
+<div id="logo">BIURO PROJEKTÓW <em class="yellow"> 99</em> MAŁGORZATA WAŁĘGA</div>
+
+<!--tu się zaczyna MENU, KTÓRE NIE CHCE DZIAŁAĆ-->
+
+<div id="menu">
+
+	<ul>
+
+		<li><a href="biuro.html">BIURO</a></li>
+
+		<li><a href="projekty.html">PROJEKTY</a>	
+
+			<ul>
+
+				<li><a href="mieszkan.html">mieszkaniowe</a>						
+				</li>
+					
+				<li><a href="publiczne.html">użyteczność publiczna</a>				
+				</li>
+
+				<li><a href="przemysl.html">sport i rekreacja</a>
+				</li>
+
+				<li><a href="wnetrza.html">wnętrza</a>
+				</li>
+			</ul>
+		</li>
+
+		<li><a href="kontakt.html">KONTAKT</a></li>
+	</ul>
+
+</div>
+
+<!--tu się menu kończy-->
+
+<div id="trescmain">
+
+<p>	OBIEKTY REFERENCYJNE: </p> <br />
+		
+		<ul class="lista">
+			<li><a href="mieszkan.html"> Budynki mieszkalne:</a>		
+				<ul class="lista">
+				<li> <a href="mieszkan.html">Domy jednorodzinne</a></li>
+				<li> <a href="mieszkan5.html">Budynek wielorodzinny w Radzyniu </a></li>			
+			</ul></li>
+		</ul> 	
+		
+		<ul class="lista">
+			<li><a href="publiczne.html">Budynki użyteczności publicznej:</a>
+			<ul class="lista">
+				<li><a href="publ2.html">Park Przemysłowy w Świdniku</a></li>
+				<li> ZUS w Lubartowie</li>		
+				<li><a href="publ1.html">Dom dziecka w Lublinie</a> </li>
+				<li><a href="publ7.html">Dom opieki w Rykach</a> </li>
+				<li>Przychodnia zdrowia w Dęblinie</li>
+				<li><a href="publ3.html">Przychodnia zdrowia w Lublinie</a></li>
+				<li><a href="publ4.html">Przychodnia zdrowia z przedszkolem w Krasieninie</a></li>
+				<li>Straż pożarna we Wronowie </li>	
+			</ul></li>
+		</ul> 	
+	
+		<ul class="lista">
+			<li> <a href="sport.html">Obiekty sportu i rekreacji:</a>
+			<ul class="lista">
+				<li>Hala sportowa z zapleczem socjalno-sanitarnym i klaso-pracownami w Michowie</li>
+				<li>Sala widowiskowo-sportowa przy zespole szkół z zapleczem socjalno-sanitarnym i&nbsp;klaso-pracowniami </li>
+				<li>Kryty basen przy domku jednorodzinnym </li>
+			</ul></li>
+		</ul> 	
+	
+		<ul class="lista">
+			<li> Obiekty handlowe:
+			<ul class="lista">
+				<li>Stokrotka - Plaza Lublin</li>
+				<li>Biedronka w Lublinie </li>
+			</ul></li>
+		</ul> 
+
+		<ul class="lista"> 
+			<li>Obiekty przemysłowe:
+			<ul class="lista">				
+				<li>Hala - sprzedaż i serwis maszyn rolniczych - Rolmax - w Świdniku </li>
+				<li>Serwis samochodowy w Zamościu</li>
+			</ul></li>
+		</ul>
+
+		<ul class="lista">
+			<li><a href="wnetrza.html">Wnętrza:</a>	 	
+			<ul class="lista">				
+				<li><a href="wnetrze1.html">Salony optyczne</a></li>
+				<li><a href="wnetrze3.html">Biblioteka KUL </a></li>
+				<li>Park Przemysłowy w Świdniku </li>
+				<li><a href="wnetrze4.html">Prywatne mieszkania </a></li>
+			</ul></li>
+		</ul>
+	
+
+</div>
+
+<div id="stopka">
+	
+		<a href="index.html"> &copy; Biuro Projektów 99 Małgorzata Wałęga 
+		</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
+	
+	
+	

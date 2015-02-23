@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
+
+	<head>
+	<title>Biuro Projektów 99 Ma³gorzata Wa³êga</title>	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-89-2" />
+	<link type="text/css" rel="stylesheet" href="biuro.css" />
+
+	</head>
+
+<!--Zaczyna siê strona-->
+
+<body>
+	<div id="wizytowka">
+		<div id="logo2"><a href="biuro.html">BIURO PROJEKTÓW <em class="yellow"> 99</em> MA£GORZATA WA£ÊGA</a>
+		</div>
+	
+		<div id="adres">
+			<p>
+				ul. Unicka 4 pok. 113, Lublin 20-950 <br />
+				<b><em>tel:</em></b> 81 747 51 51 <br /> 
+				<b><em>kom:</em></b> 502 61 88 91 <br />
+				<b><em>mail:</em></b> <a class="mail" href="mailto:biuro99@post.pl">biuro99@post.pl <br /> </a>
+			</p>
+		</div>
+	</div>
+</body>
+
+</html>
